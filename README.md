@@ -13,3 +13,9 @@ Impact Compass explores whether AI systems can help identify relevant parliament
 Impact Compass is an active research prototype and remains under development at https://github.com/JoanneStocks/Impact-Compass.
 
 Formal evaluation has not yet been completed.
+
+https://impactcompass.joannestocks.com/
+
+The public demonstration environment includes access controls and usage limits to protect live retrieval and AI services.
+
+Password available on request.
